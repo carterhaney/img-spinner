@@ -2,3 +2,10 @@ body {
   font-family: sans-serif;
   color: blue;
 }
+
+.spinner1 {
+    height: 200px;
+    width: 200px;
+    border: solid 5px black;
+
+}
